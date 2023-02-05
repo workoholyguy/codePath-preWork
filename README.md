@@ -1,9 +1,9 @@
-## NAME_OF_YOUR_APP_HERE: Code Path Pre-Work
+## Code Path Pre-Work
     
 
 ### App Description
 
-`TODO://` 
+
     This is an IOS app designed to work best on the iPhone 11 screen. It helps students introduce themselves by showing a logo of their school on the first page. They then enter their first and last names, and their school name in 3 text fields.
 
     There's also a section to select the student's current academic year using a Segmented Control. Next, they use a stepper (set to 0 by default) to tell how many pets they have. There's also a switch to indicate if they want more pets.
@@ -14,11 +14,7 @@
     
 ### App Walk-though
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-<!-- <img src="Prework Recording 1.gif" width=200><br> OR <img src="./GitHub/codePath-preWork" width=200><br> -->
-
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="Prework Recording 1.gif" width=200><br>
 
 ### Required Features
 
